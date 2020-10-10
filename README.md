@@ -34,3 +34,7 @@ $ cd xiaomi-zb2mqtt
 * You need CC2531 USB stick flashed with CC2531ZNP-Pro-Secure_LinkKeyJoin.hex from here: https://github.com/mtornblad/zstack-1.2.2a.44539/tree/master/CC2531
 * Zigbee shepherd's pairing process can take quite a while (more than a minute).
 * When pairing WXKG01LM, after reset you need to toggle (short keypress) the reset button every couple of seconds to keep the switch from going to sleep until the pairing is complete.
+
+### Other related sites
+https://lemariva.com/blog/2019/04/zigbee-xiaomi-sensors-using-raspberry-pi-without-gateway
+https://lemariva.com/blog/2019/07/zigbee-xiaomi-sensors-and-raspberry-pi
